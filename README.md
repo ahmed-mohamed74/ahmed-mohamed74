@@ -15,6 +15,7 @@
 - **Email**: [ahmedmohamed152002@gmail.com](ahmedmohamed152002@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/ahmed-badour](https://www.linkedin.com/in/ahmed-badour)
 - **My CV**: [My CV](https://drive.google.com/file/d/1YHgEPDMlqZOUw6mK3thdK-9xxkhOlSv_/view)
+- **My portfolio**: [My portfolio](https://ahmed-mohamed74.github.io/my-Portfolio-project/)
 - **Contact Info**: [ahmed_badour](https://linktr.ee/ahmed_badour)
 
 <div align="center">
