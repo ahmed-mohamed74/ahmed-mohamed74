@@ -44,32 +44,81 @@
 
 ## 🛠️ Featured Projects
 
+---
+
 ### 🛒 Marketi
-E-commerce application focused on modular architecture and persistent data management.
-* **Architecture:** MVVM
-* **Data:** Hive for local NoSQL caching and persistence.
-* **Navigation:** GoRouter for declarative routing.
-* **Payments:** Stripe API integration for checkout processing.
-* **Tech:** `Flutter` | `Dart` | `Stripe` | `Hive` | `Bloc-Cubit`
+<table border="0">
+  <tr>
+    <td>
+      <p><b>A modular, feature-rich E-commerce marketplace for scalable retail.</b></p>
+      <ul>
+        <li><b>Description:</b> A retail-focused application designed for scalability. It handles complex user flows—from multi-step onboarding to categorized browsing—using declarative routing and modular logic.</li>
+        <li><b>Engineering Highlight:</b> Managed complex navigation trees with <b>GoRouter</b> and implemented the <b>Stripe API</b> for international payment processing.</li>
+        <li><b>Tech Stack:</b> <code>Flutter</code> | <code>Stripe API</code> | <code>Hive</code> | <code>Cubit</code> | <code>GoRouter</code></li>
+      </ul>
+    </td>
+    <td width="200px">
+      <img width="200" height="500" alt="market1" src="https://github.com/user-attachments/assets/6232116e-6e81-44d8-a996-e6c91c3e1799" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📝 Blog
-A content management application demonstrating strict separation of concerns.
-* **Architecture:** Clean Architecture.
-* **Dependency Injection:** GetIt for service locator pattern.
-* **Features:** Supabase.
-* **Tech:** `Flutter` | `Supabase` | `GetIt` | `Cubit`
+### 🤟 Sign Talk (Graduation Project)
+<table border="0">
+  <tr>
+    <td>
+      <p><b>A communication accessibility bridge for the Deaf and Hard-of-Hearing community.</b></p>
+      <ul>
+        <li><b>Description:</b> A sophisticated accessibility tool developed as a graduation prototype. It interprets data from a sensor-equipped <b>Smart Glove</b> via <b>Bluetooth Serial</b> and translates gestures into audible speech.</li>
+        <li><b>Engineering Highlight:</b> Implemented reactive state management to handle real-time hardware data streams while maintaining an accessibility-focused UI.</li>
+        <li><b>Tech Stack:</b> <code>Flutter</code> | <code>Firebase Auth</code> | <code>Bluetooth Serial</code> | <code>Provider</code> | <code>STT/TTS</code></li>
+      </ul>
+    </td>
+    <td width="200px">
+      <img width="200" height="500" alt="sign_talk2" src="https://github.com/user-attachments/assets/4b98e4e2-80ac-4330-9af4-2e02717ecb0e" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💬 SignTalk
-Communication accessibility tool built with reactive programming.
-* **UI/UX:** Responsive design and high-contrast accessibility interface.
-* **State:** Provider for real-time state updates across communication channels.
-* **Authentication:** Firebase Auth implementation.
-* **Tech:** `Flutter` | `Firebase` | `Provider`
+### 📝 Blog App
+<table border="0">
+  <tr>
+    <td>
+      <p><b>An offline-first content platform built with strict architectural separation.</b></p>
+      <ul>
+        <li><b>Description:</b> A production-grade blogging platform that serves as a blueprint for <b>Clean Architecture</b>. It ensures a seamless experience by caching blogs locally for offline reading.</li>
+        <li><b>Engineering Highlight:</b> Utilizes <b>fpdart</b> for functional error handling (Either pattern) and <b>GetIt</b> for dependency injection, making the codebase highly testable.</li>
+        <li><b>Tech Stack:</b> <code>Flutter</code> | <code>Supabase</code> | <code>Hive/Isar</code> | <code>Bloc</code> | <code>fpdart</code></li>
+      </ul>
+    </td>
+    <td width="200px">
+      <img width="200" height="500" alt="blog1" src="https://github.com/user-attachments/assets/6d9fde27-63af-4427-9644-0a5e93e52396" />
+    </td>
+  </tr>
+</table>
 
+---
+
+### ☕ Coffee Shop
+<table border="0">
+  <tr>
+    <td>
+      <p><b>A premium e-commerce UI/UX experience focusing on motion and design.</b></p>
+      <ul>
+        <li><b>Description:</b> A boutique e-commerce application designed to showcase high-fidelity motion design. Features a <b>3D Zoom Drawer</b> and smooth shared-axis transitions.</li>
+        <li><b>Engineering Highlight:</b> Integrated the <b>Paymob Payment Gateway</b> for secure transaction processing and used <b>Cubit</b> for efficient cart state management.</li>
+        <li><b>Tech Stack:</b> <code>Flutter</code> | <code>Firebase</code> | <code>Bloc/Cubit</code> | <code>Paymob</code> | <code>Animations</code></li>
+      </ul>
+    </td>
+    <td width="200px">
+      <img width="200" height="500" alt="coffee1" src="https://github.com/user-attachments/assets/f9045611-cd0a-401d-a4e9-841f7cd1ec61" />
+    </td>
+  </tr>
+</table>
 <hr>
 
 <!-- <div align="center">
