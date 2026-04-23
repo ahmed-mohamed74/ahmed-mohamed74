@@ -56,6 +56,9 @@
         <li><b>Engineering Highlight:</b> Managed complex navigation trees with <b>GoRouter</b> and implemented the <b>Stripe API</b> for international payment processing.</li>
         <li><b>Tech Stack:</b> <code>Flutter</code> | <code>Stripe API</code> | <code>Hive</code> | <code>Cubit</code> | <code>GoRouter</code></li>
       </ul>
+      <a href="https://github.com/ahmed-mohamed74/marketi_app">
+        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
+      </a>
     </td>
     <td width="200px">
       <img width="200" height="500" alt="market1" src="https://github.com/user-attachments/assets/6232116e-6e81-44d8-a996-e6c91c3e1799" />
@@ -75,6 +78,9 @@
         <li><b>Engineering Highlight:</b> Implemented reactive state management to handle real-time hardware data streams while maintaining an accessibility-focused UI.</li>
         <li><b>Tech Stack:</b> <code>Flutter</code> | <code>Firebase Auth</code> | <code>Bluetooth Serial</code> | <code>Provider</code> | <code>STT/TTS</code></li>
       </ul>
+      <a href="https://github.com/ahmed-mohamed74/sign-talk-app">
+        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
+      </a>
     </td>
     <td width="200px">
       <img width="200" height="500" alt="sign_talk2" src="https://github.com/user-attachments/assets/4b98e4e2-80ac-4330-9af4-2e02717ecb0e" />
@@ -94,6 +100,9 @@
         <li><b>Engineering Highlight:</b> Utilizes <b>fpdart</b> for functional error handling (Either pattern) and <b>GetIt</b> for dependency injection, making the codebase highly testable.</li>
         <li><b>Tech Stack:</b> <code>Flutter</code> | <code>Supabase</code> | <code>Hive/Isar</code> | <code>Bloc</code> | <code>fpdart</code></li>
       </ul>
+      <a href="https://github.com/ahmed-mohamed74/blog_app">
+        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
+      </a>
     </td>
     <td width="200px">
       <img width="200" height="500" alt="blog1" src="https://github.com/user-attachments/assets/6d9fde27-63af-4427-9644-0a5e93e52396" />
@@ -113,6 +122,9 @@
         <li><b>Engineering Highlight:</b> Integrated the <b>Paymob Payment Gateway</b> for secure transaction processing and used <b>Cubit</b> for efficient cart state management.</li>
         <li><b>Tech Stack:</b> <code>Flutter</code> | <code>Firebase</code> | <code>Bloc/Cubit</code> | <code>Paymob</code> | <code>Animations</code></li>
       </ul>
+      <a href="https://github.com/ahmed-mohamed74/coffee_shop">
+        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
+      </a>
     </td>
     <td width="200px">
       <img width="200" height="500" alt="coffee1" src="https://github.com/user-attachments/assets/f9045611-cd0a-401d-a4e9-841f7cd1ec61" />
